@@ -1,0 +1,29 @@
+body{
+    /* background-color:#F6AE99; */
+    background-color:  #fcb7c7;
+   
+}
+
+tr{
+    
+    font-weight: bolder;
+}
+
+
+h2{
+
+    color: whitesmoke;
+    font-family: cursive;
+    color: black;
+    
+}
+
+
+
+h4 {
+    font-family: 'Roboto', sans-serif, 'arial';
+    font-weight: 400;
+    font-size: 20px;
+    color: #9b9b9b;
+    line-height: 1.5;
+} 

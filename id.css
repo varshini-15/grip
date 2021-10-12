@@ -1,0 +1,20 @@
+td{
+    color: black;
+    font-size: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+}
+h4{
+    color: #E05D5D;
+    font-weight: bold;
+    
+}
+body{
+    background-color: rgba(202, 140, 192, 0.671);
+}
+navbar-brand {
+    color: #112031;
+}
+.a class{
+    background-color:rgb(235, 229, 157);
+}
